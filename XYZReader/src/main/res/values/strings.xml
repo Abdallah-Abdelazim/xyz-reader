@@ -8,5 +8,8 @@
     <string name="action_share">Share</string>
 
     <string name="up">Up</string>
+    <string name="article_photo_content_description">Article Photo</string>
+
+    <string name="error_loading_data">An error occurred while trying to load data!</string>
 
 </resources>
