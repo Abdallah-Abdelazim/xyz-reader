@@ -34,6 +34,7 @@
 
     <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
 
+    <!-- Text Styles -->
     <style name="PrimaryText" parent="TextAppearance.AppCompat">
         <item name="android:textSize">18sp</item>
     </style>
@@ -41,5 +42,6 @@
     <style name="SecondaryText" parent="TextAppearance.AppCompat.Small">
         <item name="android:textSize">18sp</item>
     </style>
+    <!---->
 
 </resources>
